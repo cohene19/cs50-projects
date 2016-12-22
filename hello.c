@@ -5,5 +5,5 @@ int main(void)
 {
     printf("Enter your name: ");
     string name = GetString();
-    printf("Hello, %s\n", name);
+    printf("hello, %s\n", name);
 }
